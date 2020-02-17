@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="Automation">
+    <!-- <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="http://xyz.local/"/>
+    <parameter name="username" value="somebody"/>
+    <parameter name="password" value="something"/> -->
+        <classes>
+            <class name="testNG.RunAutomationTests" />
+        </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

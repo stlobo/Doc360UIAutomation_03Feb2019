@@ -1,0 +1,54 @@
+2020-01-29 17:39:32,937  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-29 17:39:33,096  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-29 17:39:33,256  INFO [main] DocClassAutomation:841 - Batch Id : 0
+2020-01-29 17:44:00,266  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-29 17:44:00,475  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-29 17:44:00,744  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-29 17:45:25,779  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-29 17:45:25,947  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-29 17:45:26,182  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-29 17:45:55,154  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-29 17:45:55,316  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-29 17:45:55,444  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-29 17:49:05,138  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-29 17:49:05,303  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-29 17:49:05,553  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-30 15:42:58,481  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-30 15:42:58,646  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-30 15:42:58,916  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-30 20:50:22,201  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-30 20:50:22,367  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-30 20:50:22,665  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-30 20:55:35,065  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-30 20:55:35,257  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-30 20:55:35,530  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-30 20:57:20,605  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-30 20:57:20,789  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-30 20:57:20,994  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-30 20:57:26,181  INFO [main] DocClassAutomation:66 - ***** Launching browser ******
+2020-01-30 20:57:28,380  INFO [main] Utilities:171 - ***** Launching Doc360 Application URL: https://doc360-ui-dev.optum.com/doc360-ui/ByPassServlet?user=rdhuria******
+2020-01-30 21:00:01,502  INFO [main] DocClassAutomation:835 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-01-30 21:00:01,674  INFO [main] DocClassAutomation:838 - Parent Batch Id : 387308
+2020-01-30 21:00:02,565  INFO [main] DocClassAutomation:841 - Batch Id : 386838
+2020-01-30 21:00:07,636  INFO [main] DocClassAutomation:66 - ***** Launching browser ******
+2020-01-30 21:00:10,958  INFO [main] Utilities:171 - ***** Launching Doc360 Application URL: https://doc360-ui-dev.optum.com/doc360-ui/ByPassServlet?user=slobo2******
+2020-01-30 21:00:13,465  INFO [main] DocClassAutomation:463 - resultGrid :{Page Count=r_page_cnt, Rendering Provider ID=u_ren_prov_id, Rendering Provider Last Name=u_ren_prov_last_nm, Patient Name=u_mbr_nm, Patient/Subscriber ID=u_mbr_id, Global Doc ID=u_gbl_doc_id, Document Control Number=u_doc_ctl_nbr, Claim Number=u_clm_nbr}
+2020-01-30 21:00:31,425  INFO [main] DocClassAutomation:468 - recordMaps :{={u_mbr_id=L2E71434601, u_doc_ctl_nbr=D1931700209002019111450100006P, u_gbl_doc_id=, u_mbr_nm=HACKENSON, HAILEY, u_ren_prov_last_nm=MIYAMOTO, u_clm_nbr=193170020900, r_page_cnt=3, u_ren_prov_id=}, 46c0b5f5-0f3f-4ea2-89c0-3d3ec20666f3={u_mbr_id=L2E71434601, u_doc_ctl_nbr=D1931700209002019111450100006P, u_gbl_doc_id=46c0b5f5-0f3f-4ea2-89c0-3d3ec20666f3, u_mbr_nm=HACKENSON, HAILEY, u_ren_prov_last_nm=MIYAMOTO, u_clm_nbr=193170020900, r_page_cnt=3, u_ren_prov_id=}}
+2020-01-30 21:00:31,426  INFO [main] DocClassAutomation:472 - UI Entries[={u_mbr_id=L2E71434601, u_doc_ctl_nbr=D1931700209002019111450100006P, u_gbl_doc_id=, u_mbr_nm=HACKENSON, HAILEY, u_ren_prov_last_nm=MIYAMOTO, u_clm_nbr=193170020900, r_page_cnt=3, u_ren_prov_id=}, 46c0b5f5-0f3f-4ea2-89c0-3d3ec20666f3={u_mbr_id=L2E71434601, u_doc_ctl_nbr=D1931700209002019111450100006P, u_gbl_doc_id=46c0b5f5-0f3f-4ea2-89c0-3d3ec20666f3, u_mbr_nm=HACKENSON, HAILEY, u_ren_prov_last_nm=MIYAMOTO, u_clm_nbr=193170020900, r_page_cnt=3, u_ren_prov_id=}]
+2020-01-30 21:01:00,943  INFO [main] DocClassAutomation:66 - ***** Launching browser ******
+2020-01-30 21:01:02,331  INFO [main] Utilities:171 - ***** Launching Doc360 Application URL: https://doc360-ui-dev.optum.com/doc360-ui/ByPassServlet?user=slobo2******
+2020-01-30 21:01:05,165  INFO [main] DocClassAutomation:463 - resultGrid :{Page Count=r_page_cnt, Rendering Provider ID=u_ren_prov_id, Rendering Provider Last Name=u_ren_prov_last_nm, Patient Name=u_mbr_nm, Patient/Subscriber ID=u_mbr_id, Global Doc ID=u_gbl_doc_id, Document Control Number=u_doc_ctl_nbr, Claim Number=u_clm_nbr}
+2020-01-30 21:01:15,864  INFO [main] DocClassAutomation:468 - recordMaps :{={u_mbr_id=L2E7056E301, u_doc_ctl_nbr=D1931700213002019111450100007P, u_gbl_doc_id=, u_mbr_nm=MORIN, JAMES, u_ren_prov_last_nm=MARTINS, u_clm_nbr=193170021300, r_page_cnt=3, u_ren_prov_id=}, 1095a3be-8560-4241-ba0c-e67088eb390c={u_mbr_id=L2E7056E301, u_doc_ctl_nbr=D1931700213002019111450100007P, u_gbl_doc_id=1095a3be-8560-4241-ba0c-e67088eb390c, u_mbr_nm=MORIN, JAMES, u_ren_prov_last_nm=MARTINS, u_clm_nbr=193170021300, r_page_cnt=3, u_ren_prov_id=}}
+2020-01-30 21:01:15,865  INFO [main] DocClassAutomation:472 - UI Entries[={u_mbr_id=L2E7056E301, u_doc_ctl_nbr=D1931700213002019111450100007P, u_gbl_doc_id=, u_mbr_nm=MORIN, JAMES, u_ren_prov_last_nm=MARTINS, u_clm_nbr=193170021300, r_page_cnt=3, u_ren_prov_id=}, 1095a3be-8560-4241-ba0c-e67088eb390c={u_mbr_id=L2E7056E301, u_doc_ctl_nbr=D1931700213002019111450100007P, u_gbl_doc_id=1095a3be-8560-4241-ba0c-e67088eb390c, u_mbr_nm=MORIN, JAMES, u_ren_prov_last_nm=MARTINS, u_clm_nbr=193170021300, r_page_cnt=3, u_ren_prov_id=}]
+2020-01-30 21:01:45,227  INFO [main] DocClassAutomation:66 - ***** Launching browser ******
+2020-01-30 21:01:46,547  INFO [main] Utilities:171 - ***** Launching Doc360 Application URL: https://doc360-ui-dev.optum.com/doc360-ui/ByPassServlet?user=slobo2******
+2020-01-30 21:01:49,176  INFO [main] DocClassAutomation:463 - resultGrid :{Page Count=r_page_cnt, Rendering Provider ID=u_ren_prov_id, Rendering Provider Last Name=u_ren_prov_last_nm, Patient Name=u_mbr_nm, Patient/Subscriber ID=u_mbr_id, Global Doc ID=u_gbl_doc_id, Document Control Number=u_doc_ctl_nbr, Claim Number=u_clm_nbr}
+2020-01-30 21:02:20,382  INFO [main] DocClassAutomation:468 - recordMaps :{={u_mbr_id=93794188400, u_doc_ctl_nbr=D1931700205002019111450100003P, u_gbl_doc_id=, u_mbr_nm=PEREIRA, EMANUEL, u_ren_prov_last_nm=WILLIAMS, u_clm_nbr=193170020500, r_page_cnt=4, u_ren_prov_id=}}
+2020-01-30 21:02:20,383  INFO [main] DocClassAutomation:472 - UI Entries[={u_mbr_id=93794188400, u_doc_ctl_nbr=D1931700205002019111450100003P, u_gbl_doc_id=, u_mbr_nm=PEREIRA, EMANUEL, u_ren_prov_last_nm=WILLIAMS, u_clm_nbr=193170020500, r_page_cnt=4, u_ren_prov_id=}]
+2020-01-30 21:02:44,494  INFO [main] DocClassAutomation:677 - All attributes are maching from ES and METADATA File
+2020-02-02 09:34:05,191  INFO [main] DocClassAutomation:889 - Zip File Name T1344957_Test2_TF1411319_EFT_Split001
+2020-02-02 09:34:05,454  INFO [main] DocClassAutomation:892 - Parent Batch Id : 387308
+2020-02-02 09:34:05,714  INFO [main] DocClassAutomation:895 - Batch Id : 386838
+2020-02-02 09:34:10,106  INFO [main] DocClassAutomation:119 - ***** Launching browser ******
+2020-02-02 09:34:11,637  INFO [main] Utilities:171 - ***** Launching Doc360 Application URL: https://doc360-ui-dev.optum.com/doc360-ui/ByPassServlet?user=slobo2******
+2020-02-02 09:34:13,834  INFO [main] DocClassAutomation:516 - resultGrid :{Page Count=r_page_cnt, Rendering Provider ID=u_ren_prov_id, Rendering Provider Last Name=u_ren_prov_last_nm, Patient Name=u_mbr_nm, Patient/Subscriber ID=u_mbr_id, Global Doc ID=u_gbl_doc_id, Document Control Number=u_doc_ctl_nbr, Claim Number=u_clm_nbr}
