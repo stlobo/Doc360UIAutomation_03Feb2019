@@ -96,6 +96,7 @@ public class DocumentDownload {
 			} else {
 				System.out.println("No files downloaded");
 				log.info("No files downloaded");
+				throw new NoDocumentFoundException("No files downloaded");
 			}
 		} catch (Exception e) {
 

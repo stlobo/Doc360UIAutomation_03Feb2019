@@ -20,6 +20,7 @@ import testDataInsertion.DBValueReader;
 import testDataInsertion.MetaDataXMLReader;
 import testDataInsertion.PersistTestData;
 import uniqueIdDataFromDB.DocClassAutomation;
+import uniqueIdDataFromDB.PersistRegressionData;
 
 public class Tester {
 
@@ -51,6 +52,7 @@ public class Tester {
 			String batchPath = getBatchPath();
 
 			setUpForAutomation(zipFile.getName(), scenarioCounter, batchPath);
+			//PersistRegressionData.bgSaveRedisData();
 
 		}
 

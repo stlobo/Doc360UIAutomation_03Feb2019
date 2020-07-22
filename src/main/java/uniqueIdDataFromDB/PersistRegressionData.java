@@ -1,6 +1,7 @@
 package uniqueIdDataFromDB;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
@@ -222,6 +223,19 @@ public class PersistRegressionData {
 			}
 
 			redisOuterElasticMap.put(globalDocId, redisInnerElasticMap);
+		}
+
+	}
+	
+	public static void bgSaveRedisData() {
+		
+		Runtime rt = Runtime.getRuntime();
+        String[] commands = {Utilities.redis_server_path+"redis-cli", "bgsave"};
+        try {
+			Process proc = rt.exec(commands);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			System.out.println("Unable to save redis background data");
 		}
 
 	}
